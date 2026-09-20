@@ -4,7 +4,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-73.8%25-brightgreen.svg)](#benchmark--evaluation-metrics)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A complete Machine Learning system for recognizing handwritten Sanskrit / Devanagari characters using a **Decision Tree Classifier**. The pipeline includes robust character bounding-box preprocessing, multi-faceted spatial feature extraction, model evaluation across 62 classes, a standalone **Google Colab Notebook**, an exported `.joblib` model bundle, and a **single-command CLI prediction tool** that accepts any image URL or local file path.
 
@@ -27,8 +26,8 @@ Anyone viewing your GitHub repo can clone the repository, install dependencies, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/sanskrit-character-recognition.git
-cd sanskrit-character-recognition
+git clone https://github.com/pratyusharun/Decision-Tree-Classifier-Sanskrit.git
+cd Decision-Tree-Classifier-Sanskrit
 ```
 
 ### 2. Install requirements
