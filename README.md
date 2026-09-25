@@ -1,6 +1,6 @@
 # 🕉️ Sanskrit Character Recognition using Decision Tree Classifier
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wadIdlyym0puEGOqYXu34Bf7fuR2eCou?usp=sharing)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
 [![Accuracy](https://img.shields.io/badge/Test%20Accuracy-73.8%25-brightgreen.svg)](#benchmark--evaluation-metrics)
