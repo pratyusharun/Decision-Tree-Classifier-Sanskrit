@@ -171,7 +171,7 @@ Optional arguments:
 
 ## 🌐 Running in Google Colab
 
-1. Open `sanskrit_mnist_decision_tree.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `sanskrit_mnist_decision_tree.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1wadIdlyym0puEGOqYXu34Bf7fuR2eCou?usp=sharing)).
 2. Run all cells sequentially. The notebook walks through EDA, visualization, feature engineering, Decision Tree training, evaluation, model export, and interactive URL prediction with matplotlib bar charts.
 
 ---
